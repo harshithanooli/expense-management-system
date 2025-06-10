@@ -15,6 +15,9 @@
   "type": "commonjs",
   "description": "expense tracker and management application",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "brcypt": "^1.0.1",
     "colors": "^1.4.0",
     "concurrently": "^9.1.2",
     "cors": "^2.8.5",
